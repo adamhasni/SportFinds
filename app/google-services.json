@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1055285867556",
+    "firebase_url": "https://sportfinds.firebaseio.com",
+    "project_id": "sportfinds",
+    "storage_bucket": "sportfinds.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055285867556:android:4e12af87e8445991",
+        "android_client_info": {
+          "package_name": "com.example.sportfinds"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1055285867556-rlkga2al81eoqvtb98limh9kv6rdm6g8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sportfinds",
+            "certificate_hash": "7254f1d31061cdd810c9a9d1305d67ea0c8b4f59"
+          }
+        },
+        {
+          "client_id": "1055285867556-9cmkje5vibvjptgbd8tbf4dmm94jg077.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7hgW8qs8ASS2PiOHsewrJK47DlejPD9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1055285867556-9cmkje5vibvjptgbd8tbf4dmm94jg077.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

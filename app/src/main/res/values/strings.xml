@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SportFinds</string>
+    <string name="drawer_open">Drawer Open</string>
+    <string name="drawer_close">Drawer Close</string>
+    <string-array name="genders">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+    <string name="title_activity_futsal_maps">Map</string>
+    <string name="title_activity_badminton_maps">Map</string>
+    <string name="title_activity_takraw_maps">Map</string>
+</resources>
